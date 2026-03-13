@@ -1,6 +1,6 @@
 spring:
   application:
-    name: students
+    name: student-service
   config:
     import: optional:configserver:${URI_CONFIG_SERVER}
 
